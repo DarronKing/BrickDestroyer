@@ -1,0 +1,1153 @@
+﻿Log file open, 12/08/17 19:29:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: brickDestroyer
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1137574644) SRandInit(1137574644).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.210066
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.09-02.29.17:202][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.09-02.29.17:202][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.09-02.29.17:228][  0]LogInit: Computer: DESKTOP-PHUVTA3
+[2017.12.09-02.29.17:228][  0]LogInit: User: iking
+[2017.12.09-02.29.17:228][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.09-02.29.17:228][  0]LogInit: High frequency timer resolution =3.342714 MHz
+[2017.12.09-02.29.17:229][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2017.12.09-02.29.17:229][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.09-02.29.17:229][  0]LogMemory: Process Physical Memory: 271.67 MB used, 271.67 MB peak
+[2017.12.09-02.29.17:229][  0]LogMemory: Process Virtual Memory: 263.55 MB used, 263.55 MB peak
+[2017.12.09-02.29.17:229][  0]LogMemory: Physical Memory: 6369.52 MB used,  10011.72 MB free, 16381.24 MB total
+[2017.12.09-02.29.17:229][  0]LogMemory: Virtual Memory: 637.18 MB used,  10011.72 MB free, 134217728.00 MB total
+[2017.12.09-02.29.17:484][  0]LogInit: Using OS detected language (en-US).
+[2017.12.09-02.29.17:484][  0]LogInit: Using OS detected locale (en-US).
+[2017.12.09-02.29.17:489][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.09-02.29.18:206][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.09-02.29.22:874][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.09-02.29.23:005][  0]LogD3D11RHI:    0. 'AMD Radeon R9 200 Series' (Feature Level 11_0)
+[2017.12.09-02.29.23:005][  0]LogD3D11RHI:       3053/0/8190 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2017.12.09-02.29.23:007][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.09-02.29.23:007][  0]LogD3D11RHI:       0/0/8190 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.09-02.29.23:007][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.09-02.29.23:021][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.09-02.29.23:022][  0]LogD3D11RHI:     GPU DeviceId: 0x6798 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.09-02.29.23:022][  0]LogWindows: EnumDisplayDevices:
+[2017.12.09-02.29.23:022][  0]LogWindows:    0. 'AMD Radeon R9 200 Series' (P:0 D:1)
+[2017.12.09-02.29.23:022][  0]LogWindows:    1. 'AMD Radeon R9 200 Series' (P:1 D:1)
+[2017.12.09-02.29.23:023][  0]LogWindows:    2. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.12.09-02.29.23:023][  0]LogWindows:    3. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.12.09-02.29.23:023][  0]LogWindows:    4. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.12.09-02.29.23:024][  0]LogWindows:    5. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.12.09-02.29.23:024][  0]LogWindows: DebugString: FoundDriverCount:6 
+[2017.12.09-02.29.23:024][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R9 200 Series
+[2017.12.09-02.29.23:024][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.1.1 (internal:22.19.162.4, unified:22.19.162.4)
+[2017.12.09-02.29.23:024][  0]LogD3D11RHI:      Driver Date: 4-24-2017
+[2017.12.09-02.29.23:024][  0]LogRHI: Texture pool is 2137 MB (70% of 3053 MB)
+[2017.12.09-02.29.23:181][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.09-02.29.23:202][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2017.12.09-02.29.23:203][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Intermediate/Shaders/WorkingDirectory/16768/).
+[2017.12.09-02.29.23:204][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/iking/AppData/Local/Temp/UnrealShaderWorkingDir/1A282D0D4BF1EB0012E972A0DA3DE6EF/'.
+[2017.12.09-02.29.23:204][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.09-02.29.26:986][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.09-02.29.27:078][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.09-02.29.27:171][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.09-02.29.27:264][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.09-02.29.27:364][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.09-02.29.27:461][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.09-02.29.27:550][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.09-02.29.27:642][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.09-02.29.27:719][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.09-02.29.27:811][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.09-02.29.27:898][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.09-02.29.27:988][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.09-02.29.28:077][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.09-02.29.28:167][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.09-02.29.28:350][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.09-02.29.28:350][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.09-02.29.28:448][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.09-02.29.28:518][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.09-02.29.28:673][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.09-02.29.28:723][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.09-02.29.28:811][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.09-02.29.28:898][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.09-02.29.28:988][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.09-02.29.29:084][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.09-02.29.29:084][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.09-02.29.29:930][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.09-02.29.30:119][  0]LogDerivedDataCache: Loaded boot cache 0.19s 78MB C:/Users/iking/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.09-02.29.30:119][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/iking/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.09-02.29.30:119][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.09-02.29.30:119][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.09-02.29.30:119][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.09-02.29.30:119][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.09-02.29.30:172][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.09-02.29.30:186][  0]LogDerivedDataCache: Using Local data cache path C:/Users/iking/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.09-02.29.30:229][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.09-02.29.30:230][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.09-02.29.30:254][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.09-02.29.30:254][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.09-02.29.31:113][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.09-02.29.31:884][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.09-02.29.32:015][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.09-02.29.32:015][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.09-02.29.32:015][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.09-02.29.32:015][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.09-02.29.32:015][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.09-02.29.32:109][  0]LogNetVersion: brickDestroyer , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1742795680)
+[2017.12.09-02.29.32:490][  0]LogAssetRegistry: FAssetRegistry took 0.0360 seconds to start up
+[2017.12.09-02.29.33:995][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.156570 seconds
+[2017.12.09-02.29.34:010][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.09-02.29.34:010][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2017.12.09-02.29.34:010][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.09-02.29.34:173][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.09-02.29.43:302][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.09-02.29.43:397][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.09-02.29.45:261][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.09-02.29.46:437][  0]SourceControl: Source control is disabled
+[2017.12.09-02.29.46:437][  0]SourceControl: Source control is disabled
+[2017.12.09-02.29.46:547][  0]SourceControl: Source control is disabled
+[2017.12.09-02.29.46:649][  0]SourceControl: Source control is disabled
+[2017.12.09-02.29.48:322][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.09-02.29.48:819][  0]LogOcInput: OculusInput pre-init called
+[2017.12.09-02.29.49:496][  0]LogEngine: Initializing Engine...
+[2017.12.09-02.29.49:499][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.09-02.29.49:604][  0]LogMaterial: Missing cached shader map for material LevelColorationUnlitMaterial, compiling. Is special engine material.
+[2017.12.09-02.29.50:031][  0]LogMaterial: Missing cached shader map for material MAT_LevelColorationLitLightmapUV, compiling. Is special engine material.
+[2017.12.09-02.29.51:313][  0]LogMaterial: Missing cached shader map for material ShadedLevelColorationLitMaterial, compiling. Is special engine material.
+[2017.12.09-02.29.52:495][  0]LogMaterial: Missing cached shader map for material ShadedLevelColorationUnlitMateri, compiling. Is special engine material.
+[2017.12.09-02.29.52:842][  0]LogMaterial: Missing cached shader map for material VertexColorMaterial, compiling. 
+[2017.12.09-02.29.53:017][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_ColorOnly, compiling. 
+[2017.12.09-02.29.53:052][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_AlphaAsColor, compiling. 
+[2017.12.09-02.29.53:081][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_RedOnly, compiling. 
+[2017.12.09-02.29.53:116][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_GreenOnly, compiling. 
+[2017.12.09-02.29.53:147][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_BlueOnly, compiling. 
+[2017.12.09-02.29.53:177][  0]LogMaterial: Missing cached shader map for material RemoveSurfaceMaterial, compiling. 
+[2017.12.09-02.29.53:191][  0]LogMaterial: Missing cached shader map for material DebugMeshMaterial, compiling. 
+[2017.12.09-02.29.53:234][  0]LogMaterial: Missing cached shader map for material M_InvalidLightmapSettings, compiling. 
+[2017.12.09-02.29.53:312][  0]LogMaterial: Missing cached shader map for material GizmoMaterial, compiling. 
+[2017.12.09-02.29.53:343][  0]LogMaterial: Missing cached shader map for material PhAT_JointLimitMaterial, compiling. 
+[2017.12.09-02.29.53:393][  0]LogMaterial: Missing cached shader map for material GeomMaterial, compiling. 
+[2017.12.09-02.29.53:416][  0]LogMaterial: Missing cached shader map for material EditorBrushMaterial, compiling. 
+[2017.12.09-02.29.53:451][  0]LogMaterial: Missing cached shader map for material BoneWeightMaterial, compiling. 
+[2017.12.09-02.29.53:630][  0]LogMaterial: Missing cached shader map for material ClothMaterial, compiling. 
+[2017.12.09-02.29.53:660][  0]LogMaterial: Missing cached shader map for material ClothMaterial_WF, compiling. 
+[2017.12.09-02.29.53:703][  0]LogMaterial: Missing cached shader map for material DebugEditorMaterial, compiling. 
+[2017.12.09-02.29.53:730][  0]LogMaterial: Missing cached shader map for material PreviewShadowIndicatorMaterial, compiling. 
+[2017.12.09-02.29.53:923][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.09-02.29.53:923][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.09-02.29.54:226][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.09-02.29.54:249][  0]LogInit: XAudio2 using 'Headphone (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.09-02.29.54:287][  0]LogInit: FAudioDevice initialized.
+[2017.12.09-02.29.54:605][  0]LogDerivedDataCache: Saved boot cache 0.32s 87MB C:/Users/iking/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.09-02.29.54:654][  0]LogInit: Texture streaming: Enabled
+[2017.12.09-02.29.54:903][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.09-02.29.55:224][  0]LogInit: Transaction tracking system initialized
+[2017.12.09-02.29.55:945][  0]BlueprintLog: New page: Editor Load
+[2017.12.09-02.29.58:060][  0]LocalizationService: Localization service is disabled
+[2017.12.09-02.29.59:826][  0]LogConsoleResponse: Display: 
+[2017.12.09-02.29.59:880][  0]LogMaterial: Missing cached shader map for material Cross_Mat, compiling. 
+[2017.12.09-02.29.59:918][  0]LogMaterial: Missing cached shader map for material PhAT_BoneSelectedMaterial, compiling. 
+[2017.12.09-02.29.59:941][  0]LogMaterial: Missing cached shader map for material PhAT_ElemSelectedMaterial, compiling. 
+[2017.12.09-02.29.59:969][  0]LogMaterial: Missing cached shader map for material PhAT_NoCollisionMaterial, compiling. 
+[2017.12.09-02.29.59:994][  0]LogMaterial: Missing cached shader map for material PhAT_UnselectedMaterial, compiling. 
+[2017.12.09-02.30.00:028][  0]LogMaterial: Missing cached shader map for material Tick_Mat, compiling. 
+[2017.12.09-02.30.00:069][  0]LogMaterial: Missing cached shader map for material WidgetGridVertexColorMaterial_Ma, compiling. 
+[2017.12.09-02.30.00:095][  0]LogMaterial: Missing cached shader map for material WidgetMaterial, compiling. 
+[2017.12.09-02.30.00:126][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Current, compiling. 
+[2017.12.09-02.30.00:150][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_X, compiling. 
+[2017.12.09-02.30.00:173][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Y, compiling. 
+[2017.12.09-02.30.00:205][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Z, compiling. 
+[2017.12.09-02.30.00:232][  0]LogMaterial: Missing cached shader map for material WidgetVertexColorMaterial, compiling. 
+[2017.12.09-02.30.00:310][  0]LogMaterial: Missing cached shader map for material LevelGridMaterial, compiling. 
+[2017.12.09-02.30.00:399][  0]LogMaterial: Missing cached shader map for material BlinkingCaret, compiling. 
+[2017.12.09-02.30.00:463][  0]LogMaterial: Missing cached shader map for material M_StreamingPause, compiling. 
+[2017.12.09-02.30.00:516][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.09-02.30.00:516][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.09-02.30.00:516][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.09-02.30.00:892][  0]LogFileCache: Scanning file cache for directory 'C:/Users/iking/Documents/Unreal Projects/brickDestroyer/Content/' took 0.01s
+[2017.12.09-02.30.03:487][  0]SourceControl: Source control is disabled
+[2017.12.09-02.30.03:516][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.18/FeaturePacks/StarterContent.upack)
+[2017.12.09-02.30.03:531][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2017.12.09-02.30.03:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2017.12.09-02.30.03:562][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2017.12.09-02.30.03:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2017.12.09-02.30.03:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2017.12.09-02.30.03:609][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2017.12.09-02.30.03:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2017.12.09-02.30.03:643][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2017.12.09-02.30.03:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2017.12.09-02.30.03:674][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2017.12.09-02.30.03:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2017.12.09-02.30.03:705][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2017.12.09-02.30.03:721][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Audio/Collapse01.uasset"
+[2017.12.09-02.30.03:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Audio/Collapse02.uasset"
+[2017.12.09-02.30.03:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2017.12.09-02.30.03:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Audio/Explosion01.uasset"
+[2017.12.09-02.30.03:788][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Audio/Explosion02.uasset"
+[2017.12.09-02.30.03:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2017.12.09-02.30.03:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Audio/Fire01.uasset"
+[2017.12.09-02.30.03:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2017.12.09-02.30.03:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2017.12.09-02.30.03:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2017.12.09-02.30.03:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Audio/Light01.uasset"
+[2017.12.09-02.30.03:900][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2017.12.09-02.30.03:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Audio/Light02.uasset"
+[2017.12.09-02.30.03:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2017.12.09-02.30.03:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Audio/Smoke01.uasset"
+[2017.12.09-02.30.03:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2017.12.09-02.30.03:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2017.12.09-02.30.03:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2017.12.09-02.30.04:015][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2017.12.09-02.30.04:024][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2017.12.09-02.30.04:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2017.12.09-02.30.04:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2017.12.09-02.30.04:086][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Audio/Steam01.uasset"
+[2017.12.09-02.30.04:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2017.12.09-02.30.04:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2017.12.09-02.30.04:131][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2017.12.09-02.30.04:147][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2017.12.09-02.30.04:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2017.12.09-02.30.04:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2017.12.09-02.30.04:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2017.12.09-02.30.04:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2017.12.09-02.30.04:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2017.12.09-02.30.04:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2017.12.09-02.30.04:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2017.12.09-02.30.04:279][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2017.12.09-02.30.04:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2017.12.09-02.30.04:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2017.12.09-02.30.04:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2017.12.09-02.30.04:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2017.12.09-02.30.04:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2017.12.09-02.30.04:515][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2017.12.09-02.30.04:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2017.12.09-02.30.04:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2017.12.09-02.30.04:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Maps/Minimal_Default.umap"
+[2017.12.09-02.30.04:581][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2017.12.09-02.30.04:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Maps/StarterMap.umap"
+[2017.12.09-02.30.04:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2017.12.09-02.30.04:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2017.12.09-02.30.04:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2017.12.09-02.30.04:699][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2017.12.09-02.30.04:713][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2017.12.09-02.30.04:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2017.12.09-02.30.04:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2017.12.09-02.30.04:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2017.12.09-02.30.04:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2017.12.09-02.30.04:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2017.12.09-02.30.04:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2017.12.09-02.30.04:817][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2017.12.09-02.30.04:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2017.12.09-02.30.04:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2017.12.09-02.30.04:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2017.12.09-02.30.04:880][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2017.12.09-02.30.04:894][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2017.12.09-02.30.04:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2017.12.09-02.30.04:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_Glass.uasset"
+[2017.12.09-02.30.04:953][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2017.12.09-02.30.04:970][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2017.12.09-02.30.04:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2017.12.09-02.30.05:000][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2017.12.09-02.30.05:014][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2017.12.09-02.30.05:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2017.12.09-02.30.05:055][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2017.12.09-02.30.05:075][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2017.12.09-02.30.05:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2017.12.09-02.30.05:107][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2017.12.09-02.30.05:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2017.12.09-02.30.05:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2017.12.09-02.30.05:151][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2017.12.09-02.30.05:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2017.12.09-02.30.05:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2017.12.09-02.30.05:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2017.12.09-02.30.05:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2017.12.09-02.30.05:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2017.12.09-02.30.05:264][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2017.12.09-02.30.05:284][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2017.12.09-02.30.05:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2017.12.09-02.30.05:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2017.12.09-02.30.05:334][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2017.12.09-02.30.05:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2017.12.09-02.30.05:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2017.12.09-02.30.05:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2017.12.09-02.30.05:402][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Particles/P_Explosion.uasset"
+[2017.12.09-02.30.05:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Particles/P_Fire.uasset"
+[2017.12.09-02.30.05:433][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Particles/P_Smoke.uasset"
+[2017.12.09-02.30.05:449][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Particles/P_Sparks.uasset"
+[2017.12.09-02.30.05:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2017.12.09-02.30.05:479][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2017.12.09-02.30.05:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2017.12.09-02.30.05:514][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2017.12.09-02.30.05:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2017.12.09-02.30.05:553][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2017.12.09-02.30.05:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2017.12.09-02.30.05:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2017.12.09-02.30.05:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2017.12.09-02.30.05:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2017.12.09-02.30.05:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2017.12.09-02.30.05:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Props/MaterialSphere.uasset"
+[2017.12.09-02.30.05:676][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Props/SM_Bush.uasset"
+[2017.12.09-02.30.05:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Props/SM_Chair.uasset"
+[2017.12.09-02.30.05:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2017.12.09-02.30.05:725][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Props/SM_Couch.uasset"
+[2017.12.09-02.30.05:738][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Props/SM_Door.uasset"
+[2017.12.09-02.30.05:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2017.12.09-02.30.05:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2017.12.09-02.30.05:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2017.12.09-02.30.05:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2017.12.09-02.30.05:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2017.12.09-02.30.05:844][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2017.12.09-02.30.05:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2017.12.09-02.30.05:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Props/SM_Rock.uasset"
+[2017.12.09-02.30.05:894][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Props/SM_Shelf.uasset"
+[2017.12.09-02.30.05:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Props/SM_Stairs.uasset"
+[2017.12.09-02.30.05:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Props/SM_Statue.uasset"
+[2017.12.09-02.30.05:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Props/SM_TableRound.uasset"
+[2017.12.09-02.30.06:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2017.12.09-02.30.06:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2017.12.09-02.30.06:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2017.12.09-02.30.06:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2017.12.09-02.30.06:075][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2017.12.09-02.30.06:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2017.12.09-02.30.06:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2017.12.09-02.30.06:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2017.12.09-02.30.06:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2017.12.09-02.30.06:154][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2017.12.09-02.30.06:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2017.12.09-02.30.06:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2017.12.09-02.30.06:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2017.12.09-02.30.06:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2017.12.09-02.30.06:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2017.12.09-02.30.06:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2017.12.09-02.30.06:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2017.12.09-02.30.06:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2017.12.09-02.30.06:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2017.12.09-02.30.06:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2017.12.09-02.30.06:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2017.12.09-02.30.06:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2017.12.09-02.30.06:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2017.12.09-02.30.06:396][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2017.12.09-02.30.06:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2017.12.09-02.30.06:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2017.12.09-02.30.06:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2017.12.09-02.30.06:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2017.12.09-02.30.06:473][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2017.12.09-02.30.06:499][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2017.12.09-02.30.06:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2017.12.09-02.30.06:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2017.12.09-02.30.06:561][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2017.12.09-02.30.06:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2017.12.09-02.30.06:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2017.12.09-02.30.06:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2017.12.09-02.30.06:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2017.12.09-02.30.06:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2017.12.09-02.30.06:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2017.12.09-02.30.06:904][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2017.12.09-02.30.06:941][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2017.12.09-02.30.06:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2017.12.09-02.30.06:993][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2017.12.09-02.30.07:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2017.12.09-02.30.07:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2017.12.09-02.30.07:071][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2017.12.09-02.30.07:086][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2017.12.09-02.30.07:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2017.12.09-02.30.07:117][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2017.12.09-02.30.07:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2017.12.09-02.30.07:151][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2017.12.09-02.30.07:187][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2017.12.09-02.30.07:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2017.12.09-02.30.07:241][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2017.12.09-02.30.07:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2017.12.09-02.30.07:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2017.12.09-02.30.07:320][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2017.12.09-02.30.07:341][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2017.12.09-02.30.07:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2017.12.09-02.30.07:474][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2017.12.09-02.30.07:506][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2017.12.09-02.30.07:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2017.12.09-02.30.07:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2017.12.09-02.30.07:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2017.12.09-02.30.07:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2017.12.09-02.30.07:656][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2017.12.09-02.30.07:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2017.12.09-02.30.07:699][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2017.12.09-02.30.07:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2017.12.09-02.30.07:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2017.12.09-02.30.07:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2017.12.09-02.30.07:785][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Door_M.uasset"
+[2017.12.09-02.30.07:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Door_N.uasset"
+[2017.12.09-02.30.07:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2017.12.09-02.30.07:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2017.12.09-02.30.07:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2017.12.09-02.30.07:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2017.12.09-02.30.07:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2017.12.09-02.30.07:904][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2017.12.09-02.30.07:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2017.12.09-02.30.07:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2017.12.09-02.30.07:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2017.12.09-02.30.08:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2017.12.09-02.30.08:070][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2017.12.09-02.30.08:128][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2017.12.09-02.30.08:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2017.12.09-02.30.08:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2017.12.09-02.30.08:201][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2017.12.09-02.30.08:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2017.12.09-02.30.08:274][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2017.12.09-02.30.08:307][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2017.12.09-02.30.08:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2017.12.09-02.30.08:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2017.12.09-02.30.08:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2017.12.09-02.30.08:433][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2017.12.09-02.30.08:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2017.12.09-02.30.08:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2017.12.09-02.30.08:525][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2017.12.09-02.30.08:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2017.12.09-02.30.08:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2017.12.09-02.30.08:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2017.12.09-02.30.08:625][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2017.12.09-02.30.08:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2017.12.09-02.30.08:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2017.12.09-02.30.08:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2017.12.09-02.30.08:752][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2017.12.09-02.30.08:780][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2017.12.09-02.30.08:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2017.12.09-02.30.08:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2017.12.09-02.30.08:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2017.12.09-02.30.08:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2017.12.09-02.30.08:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2017.12.09-02.30.08:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2017.12.09-02.30.08:903][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2017.12.09-02.30.08:917][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2017.12.09-02.30.08:933][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2017.12.09-02.30.09:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2017.12.09-02.30.09:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2017.12.09-02.30.09:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2017.12.09-02.30.09:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2017.12.09-02.30.09:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2017.12.09-02.30.09:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2017.12.09-02.30.09:151][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2017.12.09-02.30.09:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2017.12.09-02.30.09:185][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Water_M.uasset"
+[2017.12.09-02.30.09:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Water_N.uasset"
+[2017.12.09-02.30.09:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2017.12.09-02.30.09:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2017.12.09-02.30.09:279][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2017.12.09-02.30.09:306][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2017.12.09-02.30.09:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2017.12.09-02.30.09:407][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2017.12.09-02.30.09:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2017.12.09-02.30.09:454][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2017.12.09-02.30.09:487][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2017.12.09-02.30.09:501][  0]LogMaterial: Missing cached shader map for material M_Basic_Floor, compiling. 
+[2017.12.09-02.30.09:838][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 26 NumSamples 1 (Frame:1).
+[2017.12.09-02.30.10:244][  0]LogSavePackage: Save=22.95ms
+[2017.12.09-02.30.10:245][  0]LogSavePackage: Moving '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/Floor_400x400952612CC4F8B0CCD1C12C29D74BC3BDA.tmp' to '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2017.12.09-02.30.10:255][  0]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2017.12.09-02.30.10:255][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2017.12.09-02.30.10:263][  0]Cmd: MAP LOAD FILE="../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.09-02.30.10:263][  0]LightingResults: New page: Lighting Build
+[2017.12.09-02.30.10:371][  0]MapCheck: New page: Map Check
+[2017.12.09-02.30.10:371][  0]LightingResults: New page: Lighting Build
+[2017.12.09-02.30.10:738][  0]LogMaterial: Missing cached shader map for material M_HandMat, compiling. 
+[2017.12.09-02.30.10:842][  0]LogMaterial: Missing cached shader map for material M_ArcEndpoint, compiling. 
+[2017.12.09-02.30.10:953][  0]LogMaterial: Missing cached shader map for material GenericHMDMaterial, compiling. 
+[2017.12.09-02.30.10:997][  0]LogMaterial: Missing cached shader map for material M_BaseMaterial, compiling. 
+[2017.12.09-02.30.11:124][  0]LogMaterial: Missing cached shader map for material M_TeleportPreviews, compiling. 
+[2017.12.09-02.30.12:618][  0]LogAIModule: Creating AISystem for world StartupMap
+[2017.12.09-02.30.13:793][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.09-02.30.13:818][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.09-02.30.13:923][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 103.14ms to complete.
+[2017.12.09-02.30.13:923][  0]LogFileHelpers: Loading map 'StartupMap' took 3.661
+[2017.12.09-02.30.14:195][  0]LogCollectionManager: Loaded 0 collections in 0.002744 seconds
+[2017.12.09-02.30.14:692][  0]LogFileCache: Scanning file cache for directory 'C:/Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/Collections/' took 0.01s
+[2017.12.09-02.30.14:692][  0]LogFileCache: Scanning file cache for directory 'C:/Users/iking/Documents/Unreal Projects/brickDestroyer/Content/Developers/iking/Collections/' took 0.01s
+[2017.12.09-02.30.14:692][  0]LogFileCache: Scanning file cache for directory 'C:/Users/iking/Documents/Unreal Projects/brickDestroyer/Content/Collections/' took 0.01s
+[2017.12.09-02.30.14:692][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.12.09-02.30.14:710][  0]LogContentBrowser: Native class hierarchy populated in 0.0181 seconds. Added 2363 classes and 519 folders.
+[2017.12.09-02.30.14:868][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2017.12.09-02.30.15:787][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2017.12.09-02.30.15:885][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2017.12.09-02.30.18:396][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.12.09-02.30.18:450][  0]LogSlate: Took 0.009602 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.09-02.30.18:462][  0]LogSlate: Took 0.008740 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.09-02.30.18:477][  0]LogSlate: Took 0.008004 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.09-02.30.18:596][  0]LogMaterial: Missing cached shader map for material LevelGridMaterial2, compiling. 
+[2017.12.09-02.30.18:635][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 26 NumSamples 1 (Frame:1).
+[2017.12.09-02.30.18:865][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.brickDestroyer
+[2017.12.09-02.30.18:865][  0]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2017.12.09-02.30.18:865][  0]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2017.12.09-02.30.18:865][  0]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2017.12.09-02.30.18:865][  0]LogTemp: BranchPath = DESKTOP-PHUVTA3/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-PHUVTA3/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2017.12.09-02.30.18:865][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\iking\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.12.09-02.30.18:865][  0]LogSlate: Took 0.007670 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.09-02.30.19:223][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2017.12.09-02.30.19:223][  0]LogLoad: (Engine Initialization) Total time: 67.35 seconds
+[2017.12.09-02.30.19:223][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.09-02.30.19:223][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.12.09-02.30.19:888][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.09-02.30.20:686][  3]LogAssetRegistry: Asset discovery search completed in 48.2185 seconds
+[2017.12.09-02.30.20:692][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.12.09-02.30.20:692][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000116 seconds (updated 0 objects)
+[2017.12.09-02.30.53:203][100]LogSlate: Took 0.000435 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.09-02.34.41:399][349]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.12.09-02.34.41:412][349]LogMaterial: Missing cached shader map for material M_Basic_Wall, compiling. 
+[2017.12.09-02.34.41:482][349]LogMaterial: Missing cached shader map for material M_AssetPlatform, compiling. 
+[2017.12.09-02.34.41:876][349]LogMaterial: Missing cached shader map for material M_Lamp, compiling. 
+[2017.12.09-02.34.42:108][349]LogMaterial: Missing cached shader map for material m_flare_01, compiling. 
+[2017.12.09-02.34.42:212][349]LogMaterial: Missing cached shader map for material M_radial_ramp, compiling. 
+[2017.12.09-02.34.42:264][349]LogMaterial: Missing cached shader map for material M_explosion_subUV, compiling. 
+[2017.12.09-02.34.42:315][349]LogMaterial: Missing cached shader map for material M_Burst, compiling. 
+[2017.12.09-02.34.42:368][349]LogMaterial: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2017.12.09-02.34.42:594][349]LogMaterial: Missing cached shader map for material M_Fire_SubUV, compiling. 
+[2017.12.09-02.34.42:641][349]LogMaterial: Missing cached shader map for material M_Radial_Gradient, compiling. 
+[2017.12.09-02.34.42:697][349]LogMaterial: Missing cached shader map for material M_Heat_Distortion, compiling. 
+[2017.12.09-02.34.42:830][349]LogMaterial: Missing cached shader map for material M_Spark, compiling. 
+[2017.12.09-02.34.43:272][349]LogMaterial: Missing cached shader map for material M_LightStage_Skybox_Master, compiling. 
+[2017.12.09-02.34.43:284][349]LogMaterial: Missing cached shader map for material M_LightStage_Skybox_Master, compiling. 
+[2017.12.09-02.34.43:295][349]LogMaterial: Missing cached shader map for material M_LightStage_Arrows, compiling. 
+[2017.12.09-02.34.43:674][349]LogMaterial: Missing cached shader map for material M_ClearCoat, compiling. 
+[2017.12.09-02.34.43:729][349]LogMaterial: Missing cached shader map for material M_ClearCoatBlack, compiling. 
+[2017.12.09-02.34.43:785][349]LogMaterial: Missing cached shader map for material M_ColorGrid, compiling. 
+[2017.12.09-02.34.43:838][349]LogMaterial: Missing cached shader map for material M_GreyBall, compiling. 
+[2017.12.09-02.34.43:892][349]LogMaterial: Missing cached shader map for material M_ChromeBall, compiling. 
+[2017.12.09-02.34.44:083][349]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2017.12.09-02.34.44:432][349]LogMaterial: Missing cached shader map for material M_Sky_Panning_Clouds2, compiling. 
+[2017.12.09-02.34.44:588][349]LogMaterial: Missing cached shader map for material M_Statue, compiling. 
+[2017.12.09-02.34.44:643][349]LogMaterial: Missing cached shader map for material M_StatueGlass, compiling. 
+[2017.12.09-02.34.44:718][349]LogMaterial: Missing cached shader map for material M_Chair, compiling. 
+[2017.12.09-02.34.44:798][349]LogMaterial: Missing cached shader map for material M_Metal_Copper, compiling. 
+[2017.12.09-02.34.44:851][349]LogMaterial: Missing cached shader map for material M_Metal_Burnished_Steel, compiling. 
+[2017.12.09-02.34.44:912][349]LogMaterial: Missing cached shader map for material M_Metal_Brushed_Nickel, compiling. 
+[2017.12.09-02.34.44:987][349]LogMaterial: Missing cached shader map for material M_TableRound, compiling. 
+[2017.12.09-02.34.45:038][349]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.12.09-02.34.46:329][349]LogMaterial: Missing cached shader map for material M_Brick_Clay_Old, compiling. 
+[2017.12.09-02.34.46:509][349]LogMaterial: Missing cached shader map for material M_Brick_Clay_New, compiling. 
+[2017.12.09-02.34.46:571][349]LogMaterial: Missing cached shader map for material M_CobbleStone_Rough, compiling. 
+[2017.12.09-02.34.46:632][349]LogMaterial: Missing cached shader map for material M_CobbleStone_Pebble, compiling. 
+[2017.12.09-02.34.46:687][349]LogMaterial: Missing cached shader map for material M_Brick_Hewn_Stone, compiling. 
+[2017.12.09-02.34.46:741][349]LogMaterial: Missing cached shader map for material M_Ceramic_Tile_Checker, compiling. 
+[2017.12.09-02.34.46:792][349]LogMaterial: Missing cached shader map for material M_Brick_Cut_Stone, compiling. 
+[2017.12.09-02.34.46:845][349]LogMaterial: Missing cached shader map for material M_Brick_Clay_Beveled, compiling. 
+[2017.12.09-02.34.46:897][349]LogMaterial: Missing cached shader map for material AntiAliasedTextMaterialTranslucent, compiling. 
+[2017.12.09-02.34.46:963][349]LogMaterial: Missing cached shader map for material M_Dust_Particle, compiling. 
+[2017.12.09-02.34.47:303][349]LogMaterial: Missing cached shader map for material M_CobbleStone_Smooth, compiling. 
+[2017.12.09-02.34.47:359][349]LogMaterial: Missing cached shader map for material M_Concrete_Grime, compiling. 
+[2017.12.09-02.34.47:420][349]LogMaterial: Missing cached shader map for material M_Concrete_Panels, compiling. 
+[2017.12.09-02.34.47:476][349]LogMaterial: Missing cached shader map for material M_Concrete_Poured, compiling. 
+[2017.12.09-02.34.47:530][349]LogMaterial: Missing cached shader map for material M_Metal_Steel, compiling. 
+[2017.12.09-02.34.47:583][349]LogMaterial: Missing cached shader map for material M_Metal_Rust, compiling. 
+[2017.12.09-02.34.47:636][349]LogMaterial: Missing cached shader map for material M_Metal_Gold, compiling. 
+[2017.12.09-02.34.47:688][349]LogMaterial: Missing cached shader map for material M_Metal_Chrome, compiling. 
+[2017.12.09-02.34.47:741][349]LogMaterial: Missing cached shader map for material M_Ground_Moss, compiling. 
+[2017.12.09-02.34.47:794][349]LogMaterial: Missing cached shader map for material M_Ground_Gravel, compiling. 
+[2017.12.09-02.34.47:846][349]LogMaterial: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2017.12.09-02.34.47:898][349]LogMaterial: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2017.12.09-02.34.47:952][349]LogMaterial: Missing cached shader map for material M_Glass, compiling. 
+[2017.12.09-02.34.48:027][349]LogMaterial: Missing cached shader map for material M_Frame, compiling. 
+[2017.12.09-02.34.48:080][349]LogMaterial: Missing cached shader map for material M_Wood_Walnut, compiling. 
+[2017.12.09-02.34.48:134][349]LogMaterial: Missing cached shader map for material M_Wood_Pine, compiling. 
+[2017.12.09-02.34.48:188][349]LogMaterial: Missing cached shader map for material M_Wood_Oak, compiling. 
+[2017.12.09-02.34.48:240][349]LogMaterial: Missing cached shader map for material M_Wood_Floor_Walnut_Worn, compiling. 
+[2017.12.09-02.34.48:292][349]LogMaterial: Missing cached shader map for material M_Wood_Floor_Walnut_Polished, compiling. 
+[2017.12.09-02.34.48:345][349]LogMaterial: Missing cached shader map for material M_Water_Ocean, compiling. 
+[2017.12.09-02.34.48:402][349]LogMaterial: Missing cached shader map for material M_Water_Lake, compiling. 
+[2017.12.09-02.34.48:454][349]LogMaterial: Missing cached shader map for material M_Tech_Panel, compiling. 
+[2017.12.09-02.34.48:510][349]LogMaterial: Missing cached shader map for material M_Tech_Hex_Tile_Pulse, compiling. 
+[2017.12.09-02.34.48:563][349]LogMaterial: Missing cached shader map for material M_Tech_Hex_Tile, compiling. 
+[2017.12.09-02.34.48:620][349]LogMaterial: Missing cached shader map for material M_Tech_Checker_Dot, compiling. 
+[2017.12.09-02.34.48:676][349]LogMaterial: Missing cached shader map for material M_Rock_Slate, compiling. 
+[2017.12.09-02.34.48:728][349]LogMaterial: Missing cached shader map for material M_Rock_Sandstone, compiling. 
+[2017.12.09-02.34.48:781][349]LogMaterial: Missing cached shader map for material M_Rock_Marble_Polished, compiling. 
+[2017.12.09-02.34.48:834][349]LogMaterial: Missing cached shader map for material M_Rock_Basalt, compiling. 
+[2017.12.09-02.34.48:884][349]LogAIModule: Creating AISystem for world StarterMap
+[2017.12.09-02.34.49:026][349]LogMaterial: Missing cached shader map for material M_ColorGrid_LowSpec, compiling. 
+[2017.12.09-02.34.49:125][349]LogMaterial: Missing cached shader map for material M_Bush, compiling. 
+[2017.12.09-02.34.49:304][349]LogMaterial: Missing cached shader map for material M_Door, compiling. 
+[2017.12.09-02.34.49:392][349]LogMaterial: Missing cached shader map for material M_MaterialSphere_Plain, compiling. 
+[2017.12.09-02.34.49:428][349]LogMaterial: Missing cached shader map for material M_MaterialSphere, compiling. 
+[2017.12.09-02.34.49:560][349]LogMaterial: Missing cached shader map for material M_Rock, compiling. 
+[2017.12.09-02.34.49:648][349]LogMaterial: Missing cached shader map for material M_Shelf, compiling. 
+[2017.12.09-03.29.00:607][349]LogSlate: Took 0.000373 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.09-03.29.52:421][309]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.09-03.29.52:436][309]LightingResults: New page: Lighting Build
+[2017.12.09-03.29.52:438][309]LoadErrors: New page: Loading map: Template_Default.umap
+[2017.12.09-03.29.52:439][309]MapCheck: New page: Map Check
+[2017.12.09-03.29.52:439][309]LightingResults: New page: Lighting Build
+[2017.12.09-03.29.52:597][309]LogAIModule: Creating AISystem for world Untitled_1
+[2017.12.09-03.29.52:692][309]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.09-03.29.52:716][309]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.09-03.29.52:814][309]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 97.463ms to complete.
+[2017.12.09-03.29.52:814][309]LogFileHelpers: Loading map 'Template_Default' took 0.395
+[2017.12.09-03.30.13:138][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blockBreaker" FILE="../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/blockBreaker.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.09-03.30.13:206][832]LogSavePackage: Save=48.45ms
+[2017.12.09-03.30.13:206][832]LogSavePackage: Moving '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/blockBreaker84B18BA8460EE5BEC12007A7374635AC.tmp' to '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/blockBreaker.umap'
+[2017.12.09-03.30.13:208][832]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/blockBreaker.umap
+[2017.12.09-03.30.13:283][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blockBreaker_BuiltData" FILE="../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/blockBreaker_BuiltData.uasset" SILENT=true
+[2017.12.09-03.30.13:308][832]LogSavePackage: Save=22.13ms
+[2017.12.09-03.30.13:308][832]LogSavePackage: Moving '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/blockBreaker_BuiltDataCC71C55D4A4FE119ECE1F9823E046EFB.tmp' to '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/blockBreaker_BuiltData.uasset'
+[2017.12.09-03.30.13:309][832]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/blockBreaker_BuiltData.uasset
+[2017.12.09-03.30.13:315][832]LogFileHelpers: Saving map 'blockBreaker' took 0.286
+[2017.12.09-03.31.21:248][735]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.12.09-03.31.31:803][439]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2017.12.09-03.31.32:875][506]Cmd: DELETE
+[2017.12.09-03.31.32:875][506]Cmd: ACTOR DELETE
+[2017.12.09-03.31.32:877][506]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.09-03.31.32:894][506]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2017.12.09-03.31.34:796][690]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2017.12.09-03.31.57:938][144]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.09-03.31.58:445][170]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2017.12.09-03.32.00:525][291]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2017.12.09-03.32.06:475][655]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2017.12.09-03.32.09:887][873]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2017.12.09-03.33.05:345][920]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.09-03.33.06:025][967]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2017.12.09-03.33.39:289][699]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.09-03.33.41:913][887]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2017.12.09-03.33.44:610][ 74]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.09-03.33.47:756][283]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2017.12.09-03.34.03:912][418]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.09-03.34.21:548][851]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2017.12.09-03.34.26:189][146]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.09-03.34.27:765][251]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor6)
+[2017.12.09-03.34.32:393][559]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.09-03.36.04:962][114]Cmd: TRANSACTION UNDO
+[2017.12.09-03.36.04:962][114]LogEditorTransaction: Undo Move Actors
+[2017.12.09-03.36.06:787][236]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2017.12.09-03.36.12:993][701]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.09-03.36.15:051][848]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor6)
+[2017.12.09-03.36.18:727][120]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.12.09-03.36.20:831][278]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.09-03.38.20:552][627]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.09-03.38.40:094][250]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2017.12.09-03.38.40:116][250]LogMaterial: Missing cached shader map for material baseMaterial, compiling. 
+[2017.12.09-03.38.40:669][250]LogMaterial: Missing cached shader map for material M_SkyBox, compiling. 
+[2017.12.09-03.38.40:697][250]LogSlate: Took 0.000282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.09-03.38.40:732][250]LogMaterial: Missing cached shader map for material GridMaterial, compiling. 
+[2017.12.09-03.38.40:943][250]LogMaterial: Missing cached shader map for material baseMaterial, compiling. 
+[2017.12.09-03.38.41:095][250]LogSlate: Took 0.062351 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.09-03.38.49:850][709]LogMaterial: Missing cached shader map for material baseMaterial, compiling. 
+[2017.12.09-03.38.49:878][709]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.12.09-03.38.49:996][710]LogSlate: Took 0.022920 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.09-03.39.01:095][891]MaterialEditorStats: Base pass shader: 145 instructions
+[2017.12.09-03.39.01:096][891]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 218 instructions
+[2017.12.09-03.39.01:096][891]MaterialEditorStats: Vertex shader: 85 instructions
+[2017.12.09-03.39.01:096][891]MaterialEditorStats: Texture samplers: 2/16
+[2017.12.09-03.40.13:913][109]LogSavePackage: Save=52.21ms
+[2017.12.09-03.40.13:913][109]LogSavePackage: Moving '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/blockBreaker_Auto17DB56A4B46755FE3E2A7289649712561.tmp' to '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/Autosaves/Game/blockBreaker_Auto1.umap'
+[2017.12.09-03.40.13:918][109]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/Autosaves/Game/blockBreaker_Auto1.umap
+[2017.12.09-03.40.13:922][109]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/blockBreaker' took 0.099
+[2017.12.09-03.40.13:922][109]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.099
+[2017.12.09-03.40.13:925][109]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/baseMaterial] ([1] browsable assets)...
+[2017.12.09-03.40.13:951][109]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/baseMaterial.baseMaterial]
+[2017.12.09-03.40.13:951][109]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/baseMaterial]
+[2017.12.09-03.40.14:002][109]LogSavePackage: Save=47.63ms
+[2017.12.09-03.40.14:002][109]LogSavePackage: Moving '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/baseMaterial_Auto1BCB7CEBD45B100AB7CB80CBD4B69ED1A.tmp' to '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/Autosaves/Game/Materials/baseMaterial_Auto1.uasset'
+[2017.12.09-03.40.14:005][109]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/Autosaves/Game/Materials/baseMaterial_Auto1.uasset
+[2017.12.09-03.40.14:005][109]LogFileHelpers: Auto-saving content packages took 0.081
+[2017.12.09-04.06.25:299][234]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.12.09-04.06.29:943][765]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.12.09-04.06.29:975][765]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.12.09-04.06.30:008][765]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.12.09-04.06.30:041][765]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.12.09-04.06.30:073][765]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.12.09-04.06.30:107][765]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.12.09-04.06.30:204][772]LogMaterial: Missing cached shader map for material baseMaterial, compiling. 
+[2017.12.09-04.06.30:240][772]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.12.09-04.06.34:301][224]LogMaterial: Missing cached shader map for material baseMaterial, compiling. 
+[2017.12.09-04.06.34:329][224]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.12.09-04.06.36:948][513]LogMaterial: Missing cached shader map for material baseMaterial, compiling. 
+[2017.12.09-04.06.39:473][793]LogMaterial: Missing cached shader map for material baseMaterial, compiling. 
+[2017.12.09-04.06.40:645][919]LogMaterial: Missing cached shader map for material baseMaterial, compiling. 
+[2017.12.09-04.06.43:805][272]LogMaterial: Missing cached shader map for material baseMaterial, compiling. 
+[2017.12.09-04.06.49:388][910]MaterialEditorStats: Base pass shader: 150 instructions
+[2017.12.09-04.06.49:388][910]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 224 instructions
+[2017.12.09-04.06.49:388][910]MaterialEditorStats: Vertex shader: 85 instructions
+[2017.12.09-04.06.49:388][910]MaterialEditorStats: Texture samplers: 2/16
+[2017.12.09-04.06.55:381][627]LogMaterialEditor: Saving and Compiling material baseMaterial
+[2017.12.09-04.06.56:430][627]LogMaterial: Missing cached shader map for material baseMaterial, compiling. 
+[2017.12.09-04.06.56:503][627]LogMaterial: Missing cached shader map for material baseMaterial, compiling. 
+[2017.12.09-04.06.56:547][627]LogMaterial: Missing cached shader map for material baseMaterial, compiling. 
+[2017.12.09-04.06.56:615][627]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy baseMaterial, compiling. 
+[2017.12.09-04.06.58:817][627]TextureStreamingBuild: Display: Compiling optional shaders took 2.220 seconds.
+[2017.12.09-04.07.02:832][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/baseMaterial" FILE="../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/Materials/baseMaterial.uasset" SILENT=true
+[2017.12.09-04.07.02:856][627]LogSavePackage: Save=20.68ms
+[2017.12.09-04.07.02:856][627]LogSavePackage: Moving '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/baseMaterial799E151F49008E531E6D998F2D61AF34.tmp' to '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/Materials/baseMaterial.uasset'
+[2017.12.09-04.07.02:864][627]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/Materials/baseMaterial.uasset
+[2017.12.09-04.07.02:875][627]MaterialEditorStats: Base pass shader: 150 instructions
+[2017.12.09-04.07.02:875][627]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 224 instructions
+[2017.12.09-04.07.02:875][627]MaterialEditorStats: Vertex shader: 85 instructions
+[2017.12.09-04.07.02:875][627]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.09-04.08.00:283][395]LogMaterial: Warning: Material /Game/Materials/baseMaterial.baseMaterial needed to have new flag set bUsedWithStaticLighting !
+[2017.12.09-04.08.00:286][395]LogMaterial: Warning: Material /Engine/Transient.baseMaterial needed to have new flag set bUsedWithStaticLighting !
+[2017.12.09-04.08.00:289][395]LogMaterial: Missing cached shader map for material baseMaterial, compiling. 
+[2017.12.09-04.08.00:322][395]LogMaterial: Missing cached shader map for material baseMaterial, compiling. 
+[2017.12.09-04.08.20:206][924]MaterialEditorStats: Base pass shader: 150 instructions
+[2017.12.09-04.08.20:206][924]MaterialEditorStats: Base pass shader with Surface Lightmap: 167 instructions
+[2017.12.09-04.08.20:206][924]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 224 instructions
+[2017.12.09-04.08.20:206][924]MaterialEditorStats: Vertex shader: 85 instructions
+[2017.12.09-04.08.20:206][924]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.09-04.08.30:174][727]LogSavePackage: Save=45.79ms
+[2017.12.09-04.08.30:174][727]LogSavePackage: Moving '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/blockBreaker_Auto2692D6F854D338156D3E7F28E840A9C60.tmp' to '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/Autosaves/Game/blockBreaker_Auto2.umap'
+[2017.12.09-04.08.30:176][727]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/Autosaves/Game/blockBreaker_Auto2.umap
+[2017.12.09-04.08.30:179][727]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/blockBreaker' took 0.080
+[2017.12.09-04.08.30:179][727]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.080
+[2017.12.09-04.08.30:182][727]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/baseMaterial] ([1] browsable assets)...
+[2017.12.09-04.08.30:182][727]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/baseMaterial]
+[2017.12.09-04.08.30:203][727]LogSavePackage: Save=10.54ms
+[2017.12.09-04.08.30:203][727]LogSavePackage: Moving '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/baseMaterial_Auto2CFEDB3734D7957FF9E28CEA62D3DD8A1.tmp' to '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/Autosaves/Game/Materials/baseMaterial_Auto2.uasset'
+[2017.12.09-04.08.30:205][727]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/Autosaves/Game/Materials/baseMaterial_Auto2.uasset
+[2017.12.09-04.08.30:205][727]LogFileHelpers: Auto-saving content packages took 0.024
+[2017.12.09-04.09.18:159][506]LogRenderer: Reallocating scene render targets to support 1392x924 Format 26 NumSamples 1 (Frame:1).
+[2017.12.09-04.09.32:112][132]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy blueBlock, compiling. 
+[2017.12.09-04.09.32:579][132]TextureStreamingBuild: Display: Compiling optional shaders took 0.472 seconds.
+[2017.12.09-04.09.50:645][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/greenBlock" FILE="../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/Materials/greenBlock.uasset" SILENT=true
+[2017.12.09-04.09.50:671][897]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy greenBlock, compiling. 
+[2017.12.09-04.09.50:891][897]TextureStreamingBuild: Display: Compiling optional shaders took 0.225 seconds.
+[2017.12.09-04.09.50:924][897]LogSavePackage: Save=18.62ms
+[2017.12.09-04.09.50:924][897]LogSavePackage: Moving '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/greenBlock4DBFBB374DE172A1BA8DA5ABA6EF6584.tmp' to '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/Materials/greenBlock.uasset'
+[2017.12.09-04.09.50:929][897]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/Materials/greenBlock.uasset
+[2017.12.09-04.10.14:530][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/oraneBlock" FILE="../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/Materials/oraneBlock.uasset" SILENT=true
+[2017.12.09-04.10.14:558][610]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy oraneBlock, compiling. 
+[2017.12.09-04.10.15:035][610]TextureStreamingBuild: Display: Compiling optional shaders took 0.482 seconds.
+[2017.12.09-04.10.15:070][610]LogSavePackage: Save=18.89ms
+[2017.12.09-04.10.15:070][610]LogSavePackage: Moving '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/oraneBlockAA03C29343650B17FED5EEA09EEB3681.tmp' to '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/Materials/oraneBlock.uasset'
+[2017.12.09-04.10.15:074][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/Materials/oraneBlock.uasset
+[2017.12.09-04.10.28:936][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/oraneBlock" FILE="../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/Materials/oraneBlock.uasset" SILENT=true
+[2017.12.09-04.10.28:963][ 44]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy oraneBlock, compiling. 
+[2017.12.09-04.10.29:173][ 44]TextureStreamingBuild: Display: Compiling optional shaders took 0.215 seconds.
+[2017.12.09-04.10.29:214][ 44]LogSavePackage: Save=20.09ms
+[2017.12.09-04.10.29:214][ 44]LogSavePackage: Moving '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/oraneBlock0546BD8B43320DBB1AD8DF8F44B16ABA.tmp' to '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/Materials/oraneBlock.uasset'
+[2017.12.09-04.10.29:218][ 44]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/Materials/oraneBlock.uasset
+[2017.12.09-04.10.43:042][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/oraneBlock" FILE="../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/Materials/oraneBlock.uasset" SILENT=true
+[2017.12.09-04.10.43:069][576]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy oraneBlock, compiling. 
+[2017.12.09-04.10.43:278][576]TextureStreamingBuild: Display: Compiling optional shaders took 0.214 seconds.
+[2017.12.09-04.10.43:325][576]LogSavePackage: Save=30.90ms
+[2017.12.09-04.10.43:325][576]LogSavePackage: Moving '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/oraneBlock47B4A09143119B25E33BAC821D98810F.tmp' to '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/Materials/oraneBlock.uasset'
+[2017.12.09-04.10.43:330][576]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/Materials/oraneBlock.uasset
+[2017.12.09-04.10.57:062][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/redBlock" FILE="../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/Materials/redBlock.uasset" SILENT=true
+[2017.12.09-04.10.57:086][ 85]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy redBlock, compiling. 
+[2017.12.09-04.10.57:293][ 85]TextureStreamingBuild: Display: Compiling optional shaders took 0.213 seconds.
+[2017.12.09-04.10.57:328][ 85]LogSavePackage: Save=19.42ms
+[2017.12.09-04.10.57:328][ 85]LogSavePackage: Moving '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/redBlock98B1F5184E23DEDE230090906053B60D.tmp' to '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/Materials/redBlock.uasset'
+[2017.12.09-04.10.57:332][ 85]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/Materials/redBlock.uasset
+[2017.12.09-04.11.14:972][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/orangeBlock" FILE="../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/Materials/orangeBlock.uasset" SILENT=true
+[2017.12.09-04.11.14:995][635]LogSavePackage: Save=20.10ms
+[2017.12.09-04.11.14:995][635]LogSavePackage: Moving '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/orangeBlock9799E7FA465428BA89ECD3A19976F71F.tmp' to '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/Materials/orangeBlock.uasset'
+[2017.12.09-04.11.14:999][635]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/Materials/orangeBlock.uasset
+[2017.12.09-04.12.50:896][764]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.12.09-04.18.30:310][862]LogSavePackage: Save=45.30ms
+[2017.12.09-04.18.30:310][862]LogSavePackage: Moving '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/blockBreaker_Auto3790B6237454F64605991778CA6312917.tmp' to '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/Autosaves/Game/blockBreaker_Auto3.umap'
+[2017.12.09-04.18.30:311][862]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/Autosaves/Game/blockBreaker_Auto3.umap
+[2017.12.09-04.18.30:314][862]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/blockBreaker' took 0.078
+[2017.12.09-04.18.30:315][862]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.078
+[2017.12.09-04.18.30:317][862]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/blueBlock] ([1] browsable assets)...
+[2017.12.09-04.18.30:339][862]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Materials/blueBlock.blueBlock]
+[2017.12.09-04.18.30:339][862]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/blueBlock]
+[2017.12.09-04.18.30:366][862]LogSavePackage: Save=24.23ms
+[2017.12.09-04.18.30:366][862]LogSavePackage: Moving '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/blueBlock_Auto3A05D6A5749F35FF9AD6DCDAAF70EFA17.tmp' to '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/Autosaves/Game/Materials/blueBlock_Auto3.uasset'
+[2017.12.09-04.18.30:370][862]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/Autosaves/Game/Materials/blueBlock_Auto3.uasset
+[2017.12.09-04.18.30:370][862]LogFileHelpers: Auto-saving content packages took 0.054
+[2017.12.09-06.06.08:062][867]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.12.09-06.06.37:698][808]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.12.09-06.06.50:105][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.12.09-06.06.57:063][523]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.12.09-06.07.08:032][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.12.09-06.07.12:715][828]Cmd: DELETE
+[2017.12.09-06.07.12:715][828]Cmd: ACTOR DELETE
+[2017.12.09-06.07.12:717][828]LogEditorActor: Deleted Actor: Brush
+[2017.12.09-06.07.12:735][828]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2017.12.09-06.07.13:333][893]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.12.09-06.07.32:746][504]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.09-06.07.34:726][665]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2017.12.09-06.07.45:547][556]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.09-06.07.47:044][676]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.12.09-06.07.47:770][733]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2017.12.09-06.07.52:046][ 81]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.09-06.07.54:289][265]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2017.12.09-06.08.17:090][128]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2017.12.09-06.08.18:054][204]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor9)
+[2017.12.09-06.08.21:641][500]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2017.12.09-06.08.28:590][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor8)
+[2017.12.09-06.08.32:065][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor9)
+[2017.12.09-06.08.48:847][652]Cmd: TRANSACTION UNDO
+[2017.12.09-06.08.48:847][652]LogEditorTransaction: Undo Regroup Ctrl+G
+[2017.12.09-06.08.48:873][652]LogMaterial: Missing cached shader map for material baseMaterial, compiling. 
+[2017.12.09-06.08.54:854][  0]MaterialEditorStats: Base pass shader: 150 instructions
+[2017.12.09-06.08.54:854][  0]MaterialEditorStats: Base pass shader with Surface Lightmap: 167 instructions
+[2017.12.09-06.08.54:854][  0]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 224 instructions
+[2017.12.09-06.08.54:854][  0]MaterialEditorStats: Vertex shader: 85 instructions
+[2017.12.09-06.08.54:854][  0]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.09-06.09.01:104][507]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.09-06.09.08:247][ 69]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor9)
+[2017.12.09-06.09.10:089][218]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.09-06.09.10:807][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor8)
+[2017.12.09-06.09.15:808][683]Cmd: DELETE
+[2017.12.09-06.09.15:808][683]Cmd: ACTOR DELETE
+[2017.12.09-06.09.15:810][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.09-06.09.15:826][683]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2017.12.09-06.09.16:191][721]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2017.12.09-06.09.16:397][732]Cmd: DELETE
+[2017.12.09-06.09.16:397][732]Cmd: ACTOR DELETE
+[2017.12.09-06.09.16:400][732]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.09-06.09.16:417][732]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2017.12.09-06.09.16:789][771]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2017.12.09-06.09.16:959][779]Cmd: DELETE
+[2017.12.09-06.09.16:959][779]Cmd: ACTOR DELETE
+[2017.12.09-06.09.16:961][779]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.09-06.09.16:977][779]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2017.12.09-06.09.17:471][832]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor10)
+[2017.12.09-06.09.17:676][843]Cmd: DELETE
+[2017.12.09-06.09.17:676][843]Cmd: ACTOR DELETE
+[2017.12.09-06.09.17:678][843]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.09-06.09.17:694][843]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2017.12.09-06.09.18:021][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor12)
+[2017.12.09-06.09.18:190][886]Cmd: DELETE
+[2017.12.09-06.09.18:190][886]Cmd: ACTOR DELETE
+[2017.12.09-06.09.18:192][886]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.09-06.09.18:209][886]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2017.12.09-06.09.18:613][930]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor11)
+[2017.12.09-06.09.18:760][936]Cmd: DELETE
+[2017.12.09-06.09.18:760][936]Cmd: ACTOR DELETE
+[2017.12.09-06.09.18:762][936]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.09-06.09.18:777][936]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2017.12.09-06.09.19:151][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor9)
+[2017.12.09-06.09.25:827][548]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.09-06.09.26:576][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor9)
+[2017.12.09-06.09.47:570][393]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor10)
+[2017.12.09-06.09.55:208][ 10]Cmd: TRANSACTION UNDO
+[2017.12.09-06.09.55:208][ 10]LogEditorTransaction: Undo Move Actors
+[2017.12.09-06.09.55:213][ 10]LogMaterial: Missing cached shader map for material baseMaterial, compiling. 
+[2017.12.09-06.10.00:144][373]Cmd: TRANSACTION UNDO
+[2017.12.09-06.10.00:144][373]LogEditorTransaction: Undo Move Actors
+[2017.12.09-06.10.00:178][373]LogMaterial: Missing cached shader map for material baseMaterial, compiling. 
+[2017.12.09-06.10.01:268][445]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor11)
+[2017.12.09-06.10.07:503][903]MaterialEditorStats: Base pass shader: 150 instructions
+[2017.12.09-06.10.07:503][903]MaterialEditorStats: Base pass shader with Surface Lightmap: 167 instructions
+[2017.12.09-06.10.07:503][903]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 224 instructions
+[2017.12.09-06.10.07:503][903]MaterialEditorStats: Vertex shader: 85 instructions
+[2017.12.09-06.10.07:503][903]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.09-06.10.35:868][904]Cmd: DELETE
+[2017.12.09-06.10.35:868][904]Cmd: ACTOR DELETE
+[2017.12.09-06.10.35:870][904]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.09-06.10.35:886][904]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2017.12.09-06.10.39:079][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor16)
+[2017.12.09-06.10.56:879][602]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor22)
+[2017.12.09-06.11.49:328][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/blackBlock" FILE="../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/Materials/blackBlock.uasset" SILENT=true
+[2017.12.09-06.11.49:354][120]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy blackBlock, compiling. 
+[2017.12.09-06.11.49:938][120]TextureStreamingBuild: Display: Compiling optional shaders took 0.589 seconds.
+[2017.12.09-06.11.49:974][120]LogSavePackage: Save=20.37ms
+[2017.12.09-06.11.49:974][120]LogSavePackage: Moving '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/blackBlock180E337B456102D2386A1F98D448A3E1.tmp' to '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/Materials/blackBlock.uasset'
+[2017.12.09-06.11.49:985][120]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/Materials/blackBlock.uasset
+[2017.12.09-06.11.55:330][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2017.12.09-06.12.40:625][779]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.09-06.12.40:972][800]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.09-06.13.12:529][202]LogSavePackage: Save=183.96ms
+[2017.12.09-06.13.12:529][202]LogSavePackage: Moving '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/blockBreaker_Auto4CB38FAF7442F520CCCBC299FA2948524.tmp' to '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/Autosaves/Game/blockBreaker_Auto4.umap'
+[2017.12.09-06.13.12:540][202]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/Autosaves/Game/blockBreaker_Auto4.umap
+[2017.12.09-06.13.12:564][202]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/blockBreaker' took 0.299
+[2017.12.09-06.13.12:564][202]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.299
+[2017.12.09-06.13.25:759][336]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.12.09-06.14.01:063][939]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.09-06.14.07:977][440]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.09-06.14.14:618][914]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2017.12.09-06.18.00:068][299]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.09-06.18.00:663][340]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2017.12.09-06.18.07:598][869]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2017.12.09-06.18.09:867][ 44]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor6)
+[2017.12.09-06.18.10:642][101]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.12.09-06.18.11:314][149]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2017.12.09-06.18.39:289][ 56]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.09-06.19.00:494][546]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.09-06.23.15:732][917]LogSavePackage: Save=103.67ms
+[2017.12.09-06.23.15:733][917]LogSavePackage: Moving '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/blockBreaker_Auto5702112B746CE9ADBD53CF6A0E8A94965.tmp' to '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/Autosaves/Game/blockBreaker_Auto5.umap'
+[2017.12.09-06.23.15:738][917]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/Autosaves/Game/blockBreaker_Auto5.umap
+[2017.12.09-06.23.15:741][917]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/blockBreaker' took 0.151
+[2017.12.09-06.23.15:741][917]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.151
+[2017.12.09-06.59.11:698][936]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor5)
+[2017.12.09-06.59.12:617][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2017.12.09-07.00.11:184][629]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor18)
+[2017.12.09-07.00.12:206][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor20)
+[2017.12.09-07.00.12:812][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor19)
+[2017.12.09-07.00.15:801][972]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor18)
+[2017.12.09-07.00.19:847][278]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor14)
+[2017.12.09-07.00.22:929][506]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor15)
+[2017.12.09-07.00.29:583][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor10)
+[2017.12.09-07.00.35:115][419]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.09-07.00.54:896][720]MapCheck: New page: Map Check
+[2017.12.09-07.00.54:926][720]Cmd: MAP REBUILD ALLVISIBLE
+[2017.12.09-07.00.54:928][720]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.12.09-07.00.55:068][720]LightingResults: New page: Lighting Build - Dec 8, 2017, 5:00:55 PM
+[2017.12.09-07.00.55:419][720]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.12.09-07.00.55:589][720]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.12.09-07.00.55:639][720]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.12.09-07.00.57:520][720]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.12.09-07.00.57:520][720]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16768
+[2017.12.09-07.01.01:953][720]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.12.09-07.01.01:962][720]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.12.09-07.01.01:962][720]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.12.09-07.01.01:962][720]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.12.09-07.01.01:962][720]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.12.09-07.01.01:962][720]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.12.09-07.01.02:573][720]LogEditorBuildUtils: Build time 0:07
+[2017.12.09-07.01.02:586][720]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer baseMaterial, compiling. 
+[2017.12.09-07.01.02:596][720]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer baseMaterial, compiling. 
+[2017.12.09-07.01.02:639][721]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_13, compiling. 
+[2017.12.09-07.01.02:647][721]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_13, compiling. 
+[2017.12.09-07.01.15:076][932]Job is a success!
+[2017.12.09-07.01.15:507][933]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.015s
+[2017.12.09-07.01.15:507][933]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2017.12.09-07.01.15:507][933]LogVolumetricLightmapImport:      BrickData 100x5x5 = 0.1Mb
+[2017.12.09-07.01.15:507][933]LogVolumetricLightmapImport:      Bricks at Level
+[2017.12.09-07.01.15:507][933]LogVolumetricLightmapImport:          0: 5.0% covering 100.0% of volume
+[2017.12.09-07.01.15:507][933]LogVolumetricLightmapImport:          1: 5.0% covering 1.6% of volume
+[2017.12.09-07.01.15:507][933]LogVolumetricLightmapImport:          2: 90.0% covering 0.4% of volume
+[2017.12.09-07.01.16:652][933]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2017.12.09-07.01.16:652][933]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2017.12.09-07.01.16:652][933]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2017.12.09-07.01.16:652][933]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2017.12.09-07.01.16:652][933]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 128X128)
+[2017.12.09-07.01.16:652][933]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 128X128)
+[2017.12.09-07.01.16:803][933]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2017.12.09-07.01.16:803][933]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 128X4)
+[2017.12.09-07.01.16:803][933]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X256)
+[2017.12.09-07.01.17:022][933]Lightmass on DESKTOP-PHUVTA3: 8.76 sec total, 745 ms importing, 58 ms setup, 1.97 sec photons, 5.58 sec processing, 0 ms extra exporting [55/55 mappings]. Threads: 22.2 sec total, 8.83 sec processing.
+[2017.12.09-07.01.17:074][933]LogStaticLightingSystem: Illumination: 21.6 sec (1.06 sec encoding lightmaps, 146 ms encoding shadowmaps)
+[2017.12.09-07.01.17:075][933]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 6 textures
+[2017.12.09-07.01.17:075][933]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 3 textures
+[2017.12.09-07.01.17:953][933]DumpUnbuiltLightIteractions
+[2017.12.09-07.01.17:953][933]Lights with unbuilt interactions: 0
+[2017.12.09-07.01.17:953][933]
+[2017.12.09-07.01.17:953][933]Primitives with unbuilt interactions: 0
+[2017.12.09-07.01.17:972][934]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.12.09-07.01.17:975][934]MapCheck: New page: blockBreaker - Dec 8, 2017, 5:01:17 PM
+[2017.12.09-07.01.21:187][934]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3,211.943ms to complete.
+[2017.12.09-07.01.25:492][946]LogSavePackage: Save=191.15ms
+[2017.12.09-07.01.25:492][946]LogSavePackage: Moving '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/blockBreaker_Auto60AF17DCC4BE17DE16F6660A2960B7DE8.tmp' to '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/Autosaves/Game/blockBreaker_Auto6.umap'
+[2017.12.09-07.01.25:497][946]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/Autosaves/Game/blockBreaker_Auto6.umap
+[2017.12.09-07.01.25:501][946]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/blockBreaker' took 0.240
+[2017.12.09-07.01.25:501][946]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.240
+[2017.12.09-07.01.25:503][946]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blockBreaker_BuiltData] ([1] browsable assets)...
+[2017.12.09-07.01.25:504][946]OBJ SavePackage: Finished generating thumbnails for package [/Game/blockBreaker_BuiltData]
+[2017.12.09-07.01.25:557][946]LogSavePackage: Save=37.25ms
+[2017.12.09-07.01.25:557][946]LogSavePackage: Moving '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/blockBreaker_BuiltData_Auto60A408FDE4E020616E119A097FE7D2BAA.tmp' to '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/Autosaves/Game/blockBreaker_BuiltData_Auto6.uasset'
+[2017.12.09-07.01.25:559][946]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/Autosaves/Game/blockBreaker_BuiltData_Auto6.uasset
+[2017.12.09-07.01.25:560][946]LogFileHelpers: Auto-saving content packages took 0.057
+[2017.12.09-07.03.02:560][224]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2017.12.09-07.03.02:561][224]LogMaterial: Warning: /Engine/Transient.Material_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.09-07.03.02:561][224]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
+[2017.12.09-07.04.08:993][131]LogMetaData: Removing '/Game/Blueprints/controlBoard.controlBoard:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2017.12.09-07.04.08:993][131]LogMetaData: Removing '/Game/Blueprints/controlBoard.SKEL_controlBoard_C' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2017.12.09-07.04.08:993][131]LogMetaData: Removing '/Game/Blueprints/controlBoard.controlBoard_C' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2017.12.09-07.04.08:993][131]LogMetaData: Removing '/Game/Blueprints/controlBoard.controlBoard:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2017.12.09-07.04.08:993][131]LogMetaData: Removing '/Game/Blueprints/controlBoard.controlBoard:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2017.12.09-07.04.08:993][131]LogMetaData: Removing '/Game/Blueprints/controlBoard.controlBoard:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2017.12.09-07.04.09:022][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/controlBoard" FILE="../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/Blueprints/controlBoard.uasset" SILENT=true
+[2017.12.09-07.04.09:044][131]LogSavePackage: Save=18.88ms
+[2017.12.09-07.04.09:044][131]LogSavePackage: Moving '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/controlBoard297F345F4E8EB86AA5F9848C64C0502A.tmp' to '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/Blueprints/controlBoard.uasset'
+[2017.12.09-07.04.09:047][131]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Content/Blueprints/controlBoard.uasset
+[2017.12.09-07.04.19:065][820]LogEditorViewport: Clicking Background
+[2017.12.09-07.04.19:991][913]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2017.12.09-07.04.21:191][  3]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.09-07.04.52:885][847]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2017.12.09-07.05.48:885][548]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.09-07.11.26:234][377]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/blockBreaker' took 0.023
+[2017.12.09-07.11.26:238][377]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/breakingBrick] ([1] browsable assets)...
+[2017.12.09-07.11.26:238][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/breakingBrick]
+[2017.12.09-07.11.26:263][377]LogSavePackage: Save=21.51ms
+[2017.12.09-07.11.26:263][377]LogSavePackage: Moving '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/breakingBrick_Auto716BAF44240767E974C85B0A697BB5BBF.tmp' to '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/Autosaves/Game/Blueprints/breakingBrick_Auto7.uasset'
+[2017.12.09-07.11.26:265][377]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/Autosaves/Game/Blueprints/breakingBrick_Auto7.uasset
+[2017.12.09-07.11.26:266][377]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/bouncingBall] ([1] browsable assets)...
+[2017.12.09-07.11.26:266][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/bouncingBall]
+[2017.12.09-07.11.26:292][377]LogSavePackage: Save=22.72ms
+[2017.12.09-07.11.26:292][377]LogSavePackage: Moving '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/bouncingBall_Auto76E80F2494703942C79DEB8A4BE600CE1.tmp' to '../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/Autosaves/Game/Blueprints/bouncingBall_Auto7.uasset'
+[2017.12.09-07.11.26:294][377]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iking/Documents/Unreal Projects/brickDestroyer/Saved/Autosaves/Game/Blueprints/bouncingBall_Auto7.uasset
+[2017.12.09-07.11.26:294][377]LogFileHelpers: Auto-saving content packages took 0.058
